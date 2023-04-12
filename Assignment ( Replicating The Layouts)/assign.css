@@ -1,0 +1,35 @@
+.heading{
+    color: white;
+    font-size: 30px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+body{
+    background-color: seagreen;
+}
+img{
+    float: right;
+    height: fit-content;
+    size: 300px; 
+    flex: auto;   
+    height: 700px;
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: white;
+}
+button{
+    
+    background-color: yellowgreen;
+    padding: 1%;
+    
+    border-radius: 19px;
+    border-color: yellowgreen;
+}
+.gta{
+    padding: 30px;
+    border: 90px;
+    size: 400px;
+}
